@@ -1,5 +1,5 @@
 # NESP
-### Novozymes Enzyme Stability Prediction: Help identify the thermostable mutations in enzymes
+##### Novozymes Enzyme Stability Prediction: Help identify the thermostable mutations in enzymes
 
 3D CNN, Ensemble, Wandb optimization with features generated from protein structures
 
